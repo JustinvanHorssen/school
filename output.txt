@@ -1,0 +1,17 @@
+[CPU]
+[1;34mCPU:      [0;37m [1;34mQuad core[0;37m Intel Core i5-6300HQ (-MCP-)[0;37m [1;34mcache:[0;37m 6144 KB[0;37m 
+[1;34m          [0;37m [1;34mclock speeds:[0;37m [1;34mmax:[0;37m 3200 MHz [1;34m1:[0;37m 799 MHz [1;34m2:[0;37m 799 MHz [1;34m3:[0;37m 848 MHz[0;37m
+[1;34m          [0;37m [1;34m4:[0;37m 800 MHz[0;37m
+[0m
+
+
+[Memory]
+[1;34mInfo:     [0;37m [1;34mProcesses:[0;37m 248 [1;34mUptime:[0;37m 47 min [1;34mMemory:[0;37m 2257.1/7888.9MB[0;37m
+[1;34m          [0;37m [1;34mClient:[0;37m Shell (inxi.sh) [1;34minxi:[0;37m 2.2.35[0;37m [0;37m
+[0m
+
+
+[HDD]
+[1;34mDrives:   [0;37m [1;34mHDD Total Size:[0;37m 1000.2GB (2.2% used)[0;37m
+[1;34m          [0;37m [1;34mID-1:[0;37m /dev/sda [1;34mmodel:[0;37m TOSHIBA_MQ02ABD1 [1;34msize:[0;37m 1000.2GB[0;37m
+[0m

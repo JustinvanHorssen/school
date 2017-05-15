@@ -1,0 +1,189 @@
+*{
+	padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #434AC9;
+    color: white;
+    width: 100%;
+    height: 100%;
+    background-image:url("gracht.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+header{
+	width: 100%;
+	height: 15%;
+	background-color: #EE7C37;
+	font-family:  Arial,Helvetica Neue,Helvetica,sans-serif;
+	position: absolute;
+}
+
+
+#Logo
+{
+    height: 100%;
+    left: 0px;
+}
+.name
+{
+	position: absolute;
+	top: 25%;
+	left: 3%;
+	padding-right: 50%;
+}
+
+
+
+#home
+{
+	position: relative;
+	top: 25%;
+	float: left;
+	margin-right: 5%;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#about
+{
+	position: relative;
+	top: 25%;
+	float: left;
+	margin-right: 3%;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#faq
+{
+	position: relative;
+	top: 25%;
+	float: left;
+	margin-right: 3%;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#contact
+{
+    position: relative;
+    top: 25%;
+    float: left;
+    margin-right: 20%;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+#log-in
+{
+    position: relative;
+    top: 25%;
+    float: left;
+    margin-right: 3%;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#nav
+{
+    position: relative;
+    top: 10%;
+    width: 45%;
+    height: 100%;
+    float: right;
+}
+
+#gracht
+{
+    width: 100%;
+    top: 15%;
+    position: absolute;
+}
+
+footer
+{
+    background-color: #EE7C37;
+    height: 10%;
+    width: 100%;
+    bottom: 0%;
+    position: absolute;
+}
+
+#about-content{
+    width: 60%;
+    height: 50%;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    background-color: #434AC9;
+    border-radius: 10px;
+}
+
+
+
+#log-in-content{
+    width: 60%;
+    height: 50%;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    background-color: #434AC9;
+    border-radius: 10px;
+}
+
+
+
+.register
+{
+    position: relative;
+    width: 80%;
+    height: 80%;
+    top: 10%;
+    left: 10%;
+}
+
+#map
+{
+    width: 40%;
+    height: auto;
+}
+
+#vacature_I{
+    width: 20%;
+    height: 10%;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    background-color: #434AC9;
+    border-radius: 10px;
+}
+
+#vacature_II{
+    width: 20%;
+    height: 10%;
+    position: absolute;
+    top: 20%;
+    left: 45%;
+    background-color: #434AC9;
+    border-radius: 10px;
+}
+
+#vacature_III{
+    width: 20%;
+    height: 10%;
+    position: absolute;
+    top: 20%;
+    left: 70%;
+    background-color: #434AC9;
+    border-radius: 10px;
+}
