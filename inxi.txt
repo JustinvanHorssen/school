@@ -3,10 +3,11 @@ To: justinvanhorssen@gmail.com
 Subject: INXI
 
 
-12CPU:       12Quad core Intel Core i5-6300HQ (-MCP-) 12cache 6144 KB 
-12           12clock speeds 12max 3200 MHz 121 1064 MHz 122 822 MHz 123 2692 MHz 124 2175 MHz
-
-12Drives:    12HDD Total Size 1000.2GB (2.5% used) 12ID-1 /dev/sda 12model TOSHIBA_MQ02ABD1 12size 1000.2GB
-
-12Info:      12Processes 224 12Uptime 16 min 12Memory 1741.5/7888.9MB 12Init systemd 12runlevel 5
-12           12Client Shell wrapper 12inxi 2.2.35 
+[CPU]
+CPU:       Quad core Intel Core i5-6300HQ (-MCP-) cache: 6144 KB 
+           clock speeds: max: 3200 MHz 1: 799 MHz 2: 799 MHz 3: 799 MHz 4: 800 MHz
+[HDD]
+Drives:    HDD Total Size: 1000.2GB (2.6% used) ID-1: /dev/sda model: TOSHIBA_MQ02ABD1 size: 1000.2GB
+[Memory]
+Info:      Processes: 230 Uptime: 2:57 Memory: 2115.2/7888.9MB Init: systemd runlevel: 5
+           Client: Shell wrapper inxi: 2.2.35
